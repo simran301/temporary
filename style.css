@@ -1,0 +1,282 @@
+#header{
+    background-color: black;
+}
+
+button{
+    border: none;
+    outline: none;
+    height: 45px;
+    width: 55px;
+    background: none;
+    color: white;
+    cursor: pointer;
+}
+
+h1{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+.p1{
+    height: 200px;
+    color: white;
+    text-align: center;
+} 
+
+#info{
+    height: 715px;
+}
+
+#description{
+    width: 50%;
+    float: left;
+    margin: 2px;
+}
+
+.p2{
+    font-size: 28px;
+    padding: 8px;
+    margin: 3px;
+}
+
+h2{
+    font-size: 30px;
+    padding: 2px;
+    margin: 3px;
+}
+
+#image{
+    float: right;
+    width: 37%;
+    margin-top: 42px;
+    padding: 10px;
+}
+.poet{
+    width: 402px;
+}
+
+#buttons{
+    width: 390px;
+    margin: auto;
+}
+
+.btn1{
+    border: blue solid 2px;
+    background-color: grey;
+    font-size: 25px;
+}
+
+.btn2{
+    border: blue solid 2px;
+    background-color: red;
+    font-size: 25px;
+}
+
+.btn3{
+    border: blue solid 2px;
+    background-color: orange;
+    font-size: 25px;
+}
+
+#line{
+    background-color: black;
+    font-size: 28px;
+    color: white;
+    text-align: center;
+    height: 100px;
+}
+
+
+#awd{
+    text-align: center;
+    font-size: 30px;
+}
+
+#award{
+    width: 44%;
+    float: left;    
+}
+
+#awards{
+    float: right;   
+    width: 44%;
+}
+
+#awdname{
+    height: 160px;
+}
+
+#gold{
+    border: black solid 1px;
+    border-radius: 8px;
+    width: 290px;
+    margin-left: 50px;
+    float: left;
+}
+
+#pb{
+    border: black solid 1px;
+    border-radius: 8px;
+    width: 290px;
+    margin-left: 60px;
+    float: left;
+}
+
+#np{
+    border: black solid 1px;
+    border-radius: 8px;
+    width: 290px;
+    margin-left: 68px;
+    float: left;
+}
+
+#ep{
+    border: black solid 1px;
+    border-radius: 8px;
+    width: 290px;
+    margin-left: 82px;
+    float: left; 
+    height: 144px;
+}
+
+.p4{ 
+    margin-left: 7px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 8px;
+}
+
+.p3{
+    margin: 0px;
+    margin-left: 12px;
+}
+
+.p03{
+    padding: 8px;
+}
+
+#titles{
+    height: 47px;
+}
+
+#ptry{
+    height: 40px;
+    width: 700px;
+    float: left;
+    margin-left: 20px;
+    text-align: center;
+}
+
+#poet{
+    width: 44%;
+    float: left;
+}
+#poets{
+    width: 44%;
+    float: right;
+}
+
+#poetry{
+    width: 80px;
+    margin: auto;
+    font-size: 27px;
+}
+
+#ps{
+    height: 40px;
+    width: 738px;
+    float: right;
+    margin-right: 20px;
+}
+
+#song{
+    width: 37%;
+    float: left;
+}
+
+#songs{
+    width: 37%;
+    float: right;    
+}
+
+#pss{
+    width: 220px;
+    margin: auto;
+    font-size: 27px;
+    text-align: center;
+}
+
+
+#sections{
+    height: 270px;
+}
+#section1{
+    float: left;
+    font-size: 18px;
+    padding: 14px;
+    margin-left: 90px;
+}
+
+#section2{
+    float: right;
+    font-size: 18px;
+    padding: 14px;
+    margin-right: 75px;
+}
+
+#footer{
+    background: black;
+    height: 400px;
+}
+
+#about{
+    width: 258px;
+    float: left;
+    margin-left: 440px;
+    margin-top: 118px;
+    padding: 5px;
+}
+
+.p5{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.p05{
+    color: white;
+    text-align: center;
+    font-size: 28px;
+}
+
+#cd{
+    border-left: green solid 4px;
+    width: 525px;
+    float: right;
+    margin-right: 230px;
+    margin-top: 100px;
+    padding: 5px;
+}
+
+.p6{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.p06{
+    color: white;
+    margin-left: 50px;
+    font-size: 28px;
+}
+
+strong{
+    color: blue;
+    cursor: pointer;
+}
